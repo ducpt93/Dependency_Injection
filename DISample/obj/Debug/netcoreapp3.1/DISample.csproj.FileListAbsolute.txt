@@ -1,0 +1,16 @@
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.exe
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.deps.json
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.runtimeconfig.json
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.runtimeconfig.dev.json
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.dll
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\DISample.pdb
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.csprojAssemblyReference.cache
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.AssemblyInfoInputs.cache
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.AssemblyInfo.cs
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.csproj.CoreCompileInputs.cache
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.dll
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.pdb
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.genruntimeconfig.cache
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\CODE\Dependency_injection\DISample\DISample\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CODE\Dependency_injection\DISample\DISample\obj\Debug\netcoreapp3.1\DISample.csproj.CopyComplete

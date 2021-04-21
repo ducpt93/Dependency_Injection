@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRY6AfsuYjbzlH/p+Ftoqs8LmRBF36FaI28w/1YTXvDMyttodPQ9P4BGkO3lPLAJ9m5fvaN70PPMQ4aKVBnVcA==",
+  "success": true,
+  "projectFilePath": "E:\\CODE\\Dependency_injection\\DISample\\DISample\\DISample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duc\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
